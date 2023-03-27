@@ -1,9 +1,9 @@
-# SulfuriumLib-Public
+# SulfuriumLib5-Public
 Public utility classes from SulfuriumLib5
 
-[![GitHub license](https://img.shields.io/github/license/SulfuriumServers/SulfuriumLib-Public.svg)](https://github.com/SulfuriumServers/SulfuriumLib-Public/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/SulfuriumServers/SulfuriumLib-Public.svg)](https://GitHub.com/SulfuriumServers/SulfuriumLib-Public/releases/)
-[![GitHub stars](https://img.shields.io/github/stars/SulfuriumServers/SulfuriumLib-Public.svg)](https://GitHub.com/SulfuriumServers/SulfuriumLib-Public/stargazers/)
+[![GitHub license](https://img.shields.io/github/license/SulfuriumServers/SulfuriumLib5-Public.svg)](https://github.com/SulfuriumServers/SulfuriumLib5-Public/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/SulfuriumServers/SulfuriumLib5-Public.svg)](https://GitHub.com/SulfuriumServers/SulfuriumLib5-Public/releases/)
+[![GitHub stars](https://img.shields.io/github/stars/SulfuriumServers/SulfuriumLib5-Public.svg)](https://GitHub.com/SulfuriumServers/SulfuriumLib5-Public/stargazers/)
 
 This is the newest version of the SulfuriumLib plugin. It introduces many new APIs targeted to make developement easier and bundle important tasks.
 
