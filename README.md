@@ -1,5 +1,5 @@
 # SulfuriumLib5-Public
-Public utility classes from SulfuriumLib5
+## DISCLAIMER: THIS IS A PUBLIC EXCERPT FROM THE MAIN CODEBASE!
 
 [![GitHub license](https://img.shields.io/github/license/SulfuriumServers/SulfuriumLib5-Public.svg)](https://github.com/SulfuriumServers/SulfuriumLib5-Public/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/SulfuriumServers/SulfuriumLib5-Public.svg)](https://GitHub.com/SulfuriumServers/SulfuriumLib5-Public/releases/)
